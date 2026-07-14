@@ -1,6 +1,6 @@
 This checklist is designed to help new hires in Team Sphinx complete their onboarding process efficiently. Should new hires ask what next steps are or what should be done, this checklist should be referred to. If they complete a task on the checklist, please mark it as complete.
 
-# Team Sphinx New Hire Onboarding Checklist
+# AVEVA R&D New Hire Onboarding Checklist
 
 ## Day 1
 
